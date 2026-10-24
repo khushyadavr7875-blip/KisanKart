@@ -1,2 +1,7 @@
 # KisanKart
-KisanKart is a web application that connects farmers directly with buyers and bulk purchasers, without middlemen, and also lets surplus food be donated to NGOs. Built with Python, Flask and MySQL.
+
+KisanKart is a B2B agricultural marketplace web application. Farmers list their
+products, buyers and bulk buyers order directly from them, and surplus food can
+be donated through NGOs.
+
+Tech stack: Python, Flask, MySQL, HTML, CSS, JavaScript, Jinja2.
